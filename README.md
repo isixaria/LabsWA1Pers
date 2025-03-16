@@ -1,11 +1,6 @@
-# Group "GROUP NAME"
+# Group "React or Regret"
 
-## Members
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
-
-# Exercise "NAME OF EXERCISE"
+# Exercise "Poke"
 
 # Lab Journal
 
